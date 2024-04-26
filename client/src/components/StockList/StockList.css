@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.stocklist{
+    margin-top: 7rem;
+    display:flex;
+    flex-direction: row;
+}
